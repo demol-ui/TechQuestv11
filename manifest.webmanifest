@@ -1,0 +1,10 @@
+{
+  "name": "TechQuest: IT Adventure",
+  "short_name": "TechQuest",
+  "description": "A creature-catching IT learning RPG.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07101f",
+  "theme_color": "#07101f",
+  "icons": []
+}
